@@ -1,0 +1,23 @@
+[
+  {"phrase": "Amo a los perros, son tan lindos.", "result": {"bueno": 1}},
+  {"phrase": "Los gatos son malvados", "result": {"malo": 1}},
+  {"phrase": "Me encanta el pastel", "result": {"bueno": 1}},
+  {"phrase": "Un perro y un gato", "result": {"neutro": 1}},
+  {"phrase": "hoy fue un buen día", "result": {"bueno": 1}},
+  {"phrase": "hoy fue un mal día", "result": {"malo": 1}},
+  {"phrase": "Pastel de chocolate es el mejor", "result": {"bueno": 1}},
+  {"phrase": "El viento esta muy fuerte ", "result": {"malo": 1}},
+  {"phrase": "Mi problema es que le doy demasiada importancia a las cosas", "result": {"malo": 1}},
+  {"phrase": "Si pude hacer mi tarea", "result": {"bueno": 1}},
+  {"phrase": "No pude hacer mi tarea esta muy dificil", "result": {"malo": 1}},
+  {"phrase": "algunas cosas suelen ser muy complicadas", "result": {"malo": 1}},
+  {"phrase": "tome una buena decisión", "result": {"bueno": 1}},
+  {"phrase": "suele enojarme mucho", "result": {"malo": 1}},
+  {"phrase": "me alegra verte feliz", "result": {"bueno": 1}},
+  {"phrase": "muchas felicidades", "result": {"bueno": 1}},
+  {"phrase": "me alegro de ti", "result": {"bueno": 1}},
+  {"phrase": "me la pase bien", "result": {"bueno": 1}},
+  {"phrase": "situación de calle", "result": {"malo": 1}},
+  {"phrase": "no te quiero aquí", "result": {"malo": 1}},
+  {"phrase": "gatos y perros abandonados", "result": {"malo": 1}}
+]
